@@ -1,9 +1,6 @@
 ### Olá, sou a Ingrid 👋
 
 
-- 🔭 Atualmente estou estudando Análise de dados
-- 🌱 No momento estou aprendendo PostgreSQL e Visual Studio para modelagem de dados.
-
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gridlima&hide=html&layout=compact&theme=buefy" />
 <!--
